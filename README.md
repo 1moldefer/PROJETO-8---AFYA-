@@ -7,7 +7,7 @@ Cadastra 5 funcionários pedindo nome e senha. A senha só é aceita quando aten
 ## Como rodar
 
 ```bash
-python desafio8_cadastro_funcionarios.py
+ desafio8.py
 ```
 
 ## Regras da senha
